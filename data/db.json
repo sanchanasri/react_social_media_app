@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "post 1",
+      "body": "post one"
+    },
+    {
+      "id": "2",
+      "title": "post 2",
+      "body": "post two"
+    },
+    {
+      "id": "3",
+      "title": "post 3",
+      "body": "post three"
+    },
+    {
+      "id": "4",
+      "title": "post 4",
+      "body": "post four"
+    },
+    {
+      "id": "5",
+      "title": "Post 7",
+      "body": "post seven"
+    }
+  ]
+}
